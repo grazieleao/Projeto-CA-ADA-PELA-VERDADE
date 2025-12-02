@@ -55,6 +55,13 @@ O **Nome do Seu Jogo** permite que os desenvolvedores e jogadores modifiquem uma
 
 - Experimente diferentes modos de jogo e personalizações para uma experiência única.
 
+## Como construir
+
+O nosso repositório funciona com branchs centralizada com a <b>master</b> centralilada e com as outras branchs auxiliares.
+
+### Branches
+~~~
+~~~
 ## Requisitos de Sistema
 
 Para garantir uma experiência de jogo suave, verifique se seu dispositivo atende aos seguintes requisitos mínimos:
