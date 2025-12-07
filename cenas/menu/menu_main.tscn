@@ -1,8 +1,8 @@
 [gd_scene load_steps=4 format=3 uid="uid://cntbaoeh55dp3"]
 
-[ext_resource type="Script" path="res://scripts/menu_principal.gd" id="1_qf3d8"]
-[ext_resource type="Texture2D" uid="uid://dpas7lakpkyjx" path="res://assets/cenário/models/serra da escama.png" id="2_6drd2"]
-[ext_resource type="FontFile" uid="uid://b766fqwfwwktp" path="res://assets/fonts/Kurland.ttf" id="2_qesau"]
+[ext_resource type="Script" uid="uid://dkhg0wm0iayf5" path="res://scripts/menu_principal.gd" id="1_qf3d8"]
+[ext_resource type="Texture2D" uid="uid://cfiua13n4nsjg" path="res://assets/cenário/models/noite no rio pixel art + elemento.png" id="2_330y1"]
+[ext_resource type="FontFile" uid="uid://bux2nkuf4oa5x" path="res://assets/fonts/Kurland.ttf" id="2_qesau"]
 
 [node name="Menu_Principal" type="Control"]
 layout_mode = 3
@@ -18,10 +18,10 @@ scale = Vector2(0.355507, 0.266463)
 script = ExtResource("1_qf3d8")
 
 [node name="bg_imagem" type="TextureRect" parent="."]
-layout_mode = 2
+layout_mode = 0
 offset_right = 1080.0
 offset_bottom = 720.0
-texture = ExtResource("2_6drd2")
+texture = ExtResource("2_330y1")
 expand_mode = 2
 
 [node name="MadeBy" type="HBoxContainer" parent="."]
