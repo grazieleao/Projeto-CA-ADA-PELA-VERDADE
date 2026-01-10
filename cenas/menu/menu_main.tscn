@@ -130,7 +130,7 @@ offset_right = 193.813
 offset_bottom = 717.28
 theme_override_constants/outline_size = 10
 theme_override_constants/shadow_outline_size = 10
-text = "version alpha_build 1.2.1"
+text = "Versão BETA 2.0.1"
 
 [connection signal="pressed" from="MadeBy/TechnoDark-ti" to="." method="_on_techno_darkti_pressed"]
 [connection signal="pressed" from="MainContainer/HContainer/VContainer/Play" to="." method="_on_play_pressed"]
